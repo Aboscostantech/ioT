@@ -9,4 +9,5 @@ A very simple Web platform to control IoT Devices
 
 
 # Replit 
-![](https://replit.com/@TrevillionCreat/iot)
+<p>https://replit.com/@TrevillionCreat/iot</p>
+<a href='https://replit.com/@TrevillionCreat/iot'> Click to view </a>
